@@ -1,0 +1,2 @@
+Esse tem por objetivo informar se um determinado numero eh ou nao divisivel por outro.
+O usuário deve informar o dividendo e o divisor, e o programa retorna se a divisão é possível ou não.
